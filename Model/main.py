@@ -93,7 +93,7 @@ else:
 # boolean operator
 # and or not
 
-# file
+# using a file
 test_file = open("testFile.txt", "wb")
 
 print(test_file.name)
@@ -174,6 +174,7 @@ def bigger_guy(num1, num2, num3):
 
 print(bigger_num(45, 23))
 print(bigger_guy(12, 53, 256))
+print(max(12, 53, 256))
 print(bigger_guy(122, 53, 56))
 print(bigger_guy(12, 253, 56))
 
