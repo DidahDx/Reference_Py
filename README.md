@@ -1,15 +1,14 @@
-#Reference_Py
+# Reference_Py
 
-###Turtle
+### Turtle
 It contains how to use turtle.
 
-###Functions 
+### Functions 
 How to write functions.
 
-###Dictionary
+### Dictionary
 How to write and retrieve things in the dictionary
 
-###File
+### File
 How to write to and read from Files 
-
-### 
+ 
